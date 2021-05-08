@@ -12,7 +12,7 @@ The data set in hand, has information about the attendance of patients after mak
 * Now after knowing that Scholarship variable, is an indication of funding based on School attendance, it clears the logic, behind healthy people reserving an appointment in a clinic, perhaps for Vacination or to check on the students attendance at school, and having about 80% of Healthy people making up the bulk of the attendies missing the appointment, it is more likely for healthy individual to miss an appointment in comparison to a patient going for a treatment.
 * Waiting time seems to have some relationship with missing an appointment, as people are more associated to attend if the time between the reservation date and actual appointment is only one day, while the No-show is observed to have higher percentages of not showing up if the period is larger than 7 days
 
-![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg {width=40px height=400px})
+![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg = 400x400)
 
 
 
