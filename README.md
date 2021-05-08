@@ -2,7 +2,7 @@
 Data Science Portfolio
 
 
-# [Project : Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
+# [Project 1: Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
 
 The data set in hand, has information about the attendance of patients after making an appointment for a check up, it has 110.527 medical appointments it's 14 associated variables. We will be analysing trends for patients who showed up Vs. Patients who didn't show for the appointment, and how they differ.
 
@@ -12,11 +12,11 @@ The data set in hand, has information about the attendance of patients after mak
 * Now after knowing that Scholarship variable, is an indication of funding based on School attendance, it clears the logic, behind healthy people reserving an appointment in a clinic, perhaps for Vacination or to check on the students attendance at school, and having about 80% of Healthy people making up the bulk of the attendies missing the appointment, it is more likely for healthy individual to miss an appointment in comparison to a patient going for a treatment.
 * Waiting time seems to have some relationship with missing an appointment, as people are more associated to attend if the time between the reservation date and actual appointment is only one day, while the No-show is observed to have higher percentages of not showing up if the period is larger than 7 days
 
-![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg)
+![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg {width=40px height=400px})
 
 
 
-# [Project 2:Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
+# [Project 2: Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
 Content-based recommendation system based on ingredients
 
 * Create a content-based recommendation system based on ingredients.
