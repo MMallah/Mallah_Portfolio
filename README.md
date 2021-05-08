@@ -10,7 +10,9 @@ The data set in hand, has information about the attendance of patients after mak
 * It is noticable that percentage of patients not showing up having received multiple SMS, shows a much stronger association compared for patients attending, and it is one the Variables having largest association with Not showing to the appointment.
 * We find an interesting insight, that people with scholarships might have a relationship, with not showing, as the number of patients having a scholarship and missed the appointment increased a little bit compared to patients with no Scholarships,after refering back to the wikipedia page for the scholarship.
 * Now after knowing that Scholarship variable, is an indication of funding based on School attendance, it clears the logic, behind healthy people reserving an appointment in a clinic, perhaps for Vacination or to check on the students attendance at school, and having about 80% of Healthy people making up the bulk of the attendies missing the appointment, it is more likely for healthy individual to miss an appointment in comparison to a patient going for a treatment.
-* Waiting time seems to have some relationship with missing an appointment, as people are more associated to attend if the time between the reservation date and actual appointment is only one day, while the No-show is observed to have higher percentages of not showing up if the period is larger than 7 days.
+* Waiting time seems to have some relationship with missing an appointment, as people are more associated to attend if the time between the reservation date and actual appointment is only one day, while the No-show is observed to have higher percentages of not showing up if the period is larger than 7 days
+
+![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg)
 
 
 
