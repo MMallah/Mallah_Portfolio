@@ -1,8 +1,20 @@
 # Mallah_Portfolio
 Data Science Portfolio
 
+# [Project 1: E-commerce A/B test](https://nbviewer.jupyter.org/github/MMallah/E-Commerce-A-B-test/blob/master/E-commerce%20A_B%20Test.ipynb)
 
-# [Project 1: Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
+A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who convert, meaning the number of users who decide to pay for the company's product. our goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+* After data wrangling, we calculate the average conversion rate for both the {old page} & {new page}.
+* Then we test the conversion rate using the central limit therom after taking 10k samples.
+* From the tests conducted, we summarize that we don't have enough evidence to reject the null hypothesis which stated that the old paage has better average conversion rate. 
+
+![a/b test](https://github.com/MMallah/E-Commerce-A-B-test/blob/master/images/abtest.png)
+
+---
+
+
+# [Project : Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
 
 The data set in hand, has information about the attendance of patients after making an appointment for a check up, it has 110.527 medical appointments it's 14 associated variables. We will be analysing trends for patients who showed up Vs. Patients who didn't show for the appointment, and how they differ.
 
@@ -14,6 +26,8 @@ The data set in hand, has information about the attendance of patients after mak
 
 ![ingredients breakdown](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg)
 
+
+---
 
 
 # [Project 2: Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
