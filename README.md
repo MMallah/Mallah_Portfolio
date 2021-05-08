@@ -5,9 +5,9 @@ Data Science Portfolio
 
 A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who convert, meaning the number of users who decide to pay for the company's product. our goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-* After <code>data wrangling</code>, we calculate the average conversion rate for both the {old page} & {new page}.
-* Then we test the conversion rate using the <code>central limit therom</code> after taking 10k samples.
-* From the tests conducted, we summarize that we don't have enough evidence to reject the <code>null hypothesis</code> which stated that the old paage has better average conversion rate. 
+* After data wrangling, we calculate the average conversion rate for both the {old page} & {new page}.
+* Then we test the conversion rate using the central limit therom after taking 10k samples.
+* From the tests conducted, we summarize that we don't have enough evidence to reject the null hypothesis which stated that the old paage has better average conversion rate. 
 
 ![a/b test](https://github.com/MMallah/E-Commerce-A-B-test/blob/master/images/abtest.png)
 
@@ -18,23 +18,10 @@ We will examine the impact of changing an in game mechanic on one of the most im
 But where should the gates be placed? Initially the first gate was placed at level 30, but in this notebook we're going to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40.
 
 * The data randomly assigned to control and test groups.
-* <code>A/B testing</code> using <code>Bootstraping</code> techniques.
+* A/B testing using Bootstraping techniques.
 * Testing for difference in retention rate. 
 
 <p><img src="https://github.com/MMallah/Mallah_Portfolio/blob/main/images/cookiecat_gates.png"></p>
-
----
-# [Project : Moby Dick Word Frequency Counter](https://nbviewer.jupyter.org/github/MMallah/Word-Frequency-Counter-for-Moby-Dick-Novel/blob/main/Moby%20Dick%20Word%20Frequency%20counter.ipynb)
-
-<p>What are the most frequent words in Herman Melville's novel, Moby Dick, and how often do they occur?</p>
-<p>In this notebook, we'll scrape the novel <em>Moby Dick</em> from the website <a href="https://www.gutenberg.org/">Project Gutenberg</a> (which contains a large corpus of books)
- 
-*  Using the Python package <code>requests</code>.
-*  Then we'll extract words from this web data using <code>BeautifulSoup</code>. 
-*  Finally, we'll dive into analyzing the distribution of words using the Natural Language ToolKit (<code>nltk</code>) and <code>Counter</code>.</p>
-
-
-<p><img src="https://github.com/MMallah/Mallah_Portfolio/blob/main/images/moby%20dick.jpg"></p>
 
 ---
 
@@ -50,16 +37,16 @@ The data set in hand, has information about the attendance of patients after mak
 
 
 <p><img src="https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%201%20image1.jpg" alt="" width="650" height="250""></p>
+ 
 ---
-
 
 # [Project 2: Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
 Content-based recommendation system based on ingredients
 
-* Create a <code>content-based recommendation system</code> based on ingredients.
+* Create a content-based recommendation system based on ingredients.
 * Focused on one sample of products.
-* Use <code>Tokenization</code> and <code>Dcoment-term-Matrix (DTM)</code> per product.
-* Utilizse <code>T-SNE</code> for <code>dimensionality reduction</code> to make it easier to compare products.
+* Use Tokenization and Dcoment-term-Matrix (DTM) per product.
+* Utilizse T-SNE for dimensionality reduction to make it easier to compare products.
 * Visualize the composition similiarty between products.
 * Now it is easier to find similar products and compare prices.
 
