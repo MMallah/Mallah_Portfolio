@@ -24,4 +24,4 @@ Content-based recommendation system based on ingredients
 * Visualize the composition similiarty between products.
 * Now it is easier to find similar products and compare prices.
 
-![ingredients breakdown](image_3.PNG)
+![ingredients breakdown](project 2 image_3.PNG)
