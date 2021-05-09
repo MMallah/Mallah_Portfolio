@@ -9,7 +9,8 @@ A/B test run by an e-commerce website. The company has developed a new web page 
 
 * After <code>data wrangling</code>, we calculate the average conversion rate for both the {old page} & {new page}.
 * Then we test the conversion rate using the <code>central limit therom</code> after taking 10k samples.
-* From the tests conducted, we summarize that we don't have enough evidence to reject the <code>null hypothesis</code> which stated that the old paage has better average conversion rate. 
+* From the tests conducted, we summarize that we don't have enough evidence to reject the <code>null hypothesis</code> which stated that the old paage has better average conversion rate.
+* We also performed <code>Logistic regression</code> with results in-line with the above results. 
 
 
 
