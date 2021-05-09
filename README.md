@@ -1,7 +1,7 @@
 # Mallah_Portfolio
 Data Science Portfolio
 
-# [Project 1: E-commerce A/B test](https://nbviewer.jupyter.org/github/MMallah/E-Commerce-A-B-test/blob/master/E-commerce%20A_B%20Test.ipynb)
+# [Project : E-commerce A/B test](https://nbviewer.jupyter.org/github/MMallah/E-Commerce-A-B-test/blob/master/E-commerce%20A_B%20Test.ipynb)
 
 A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who convert, meaning the number of users who decide to pay for the company's product. our goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
@@ -40,7 +40,7 @@ The data set in hand, has information about the attendance of patients after mak
  
 ---
 
-# [Project 2: Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
+# [Project : Comparing Cosmetics Products By Ingredients](https://nbviewer.jupyter.org/github/MMallah/Comparing-Cosmetics-Ingredients/blob/bf4d84812d880be9d5845b0ec1c9c91d6d9a2d0d/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
 Content-based recommendation system based on ingredients
 
 * Create a <code>content-based recommendation system</code> based on ingredients.
