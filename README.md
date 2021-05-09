@@ -25,6 +25,20 @@ But where should the gates be placed? Initially the first gate was placed at lev
 
 ---
 
+# [Project : Moby Dick Word Frequency Counter](https://nbviewer.jupyter.org/github/MMallah/Word-Frequency-Counter-for-Moby-Dick-Novel/blob/main/Moby%20Dick%20Word%20Frequency%20counter.ipynb)
+
+<p>What are the most frequent words in Herman Melville's novel, Moby Dick, and how often do they occur?</p>
+<p>In this notebook, we'll scrape the novel <em>Moby Dick</em> from the website <a href="https://www.gutenberg.org/">Project Gutenberg</a> (which contains a large corpus of books)
+ 
+*  Using the Python package <code>requests</code>.
+*  Then we'll extract words from this web data using <code>BeautifulSoup</code>. 
+*  Finally, we'll dive into analyzing the distribution of words using the Natural Language ToolKit (<code>nltk</code>) and <code>Counter</code>.</p>
+
+
+<p><img src="https://github.com/MMallah/Mallah_Portfolio/blob/main/images/moby%20dick.jpg"></p>
+
+---
+
 # [Project : Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
 
 The data set in hand, has information about the attendance of patients after making an appointment for a check up, it has 110.527 medical appointments it's 14 associated variables. We will be analysing trends for patients who showed up Vs. Patients who didn't show for the appointment, and how they differ.
