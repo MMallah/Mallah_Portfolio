@@ -50,7 +50,7 @@ A multiple regression analysis for Disney movies.
 
 ![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/Regression.png)
 
-The Studios has produced more than 600 films since their debut film, Snow White and the Seven Dwarfs in 1937. While many of its films were big hits, some of them were not. In this notebook, we will explore a dataset of Disney movies and analyze what contributes to the success of Disney movies.
+Disney Studios has produced more than 600 films since their debut film, Snow White and the Seven Dwarfs in 1937. While many of its films were big hits, some of them were not. In this notebook, we will explore a dataset of Disney movies and analyze what contributes to the success of Disney movies.
 
 * Load and inspect the data. 
 * Explore some <code>descriptive statistics</code> and <code>visualize trends</code> .
@@ -59,7 +59,7 @@ The Studios has produced more than 600 films since their debut film, Snow White 
 
 ---
 
-# [Project : Moby Dick Word Frequency Counter](https://nbviewer.jupyter.org/github/MMallah/Word-Frequency-Counter-for-Moby-Dick-Novel/blob/main/Moby%20Dick%20Word%20Frequency%20counter.ipynb)
+# [Project: Moby Dick Word Frequency Counter](https://nbviewer.jupyter.org/github/MMallah/Word-Frequency-Counter-for-Moby-Dick-Novel/blob/main/Moby%20Dick%20Word%20Frequency%20counter.ipynb)
 
 <p><img src="https://github.com/MMallah/Mallah_Portfolio/blob/main/images/moby%20dick.jpg"></p>
 
@@ -72,7 +72,7 @@ The Studios has produced more than 600 films since their debut film, Snow White 
 
 ---
 
-# [Project :NIPS-conference-Machine-Learning-Trends](https://nbviewer.jupyter.org/github/MMallah/NIPS-conference-Machine-Learning-Trends/blob/main/notebook.ipynb)
+# [Project: NIPS-conference-Machine-Learning-Trends](https://nbviewer.jupyter.org/github/MMallah/NIPS-conference-Machine-Learning-Trends/blob/main/notebook.ipynb)
 
 ![](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/ML%20recurring%20topics.png)
 
@@ -86,7 +86,7 @@ The Studios has produced more than 600 films since their debut film, Snow White 
 
 ---
 
-# [Project : Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
+# [Project: Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
 
 The data set in hand, has information about the attendance of patients after making an appointment for a check up, it has 110.527 medical appointments it's 14 associated variables. We will be analysing trends for patients who showed up Vs. Patients who didn't show for the appointment, and how they differ.
 
