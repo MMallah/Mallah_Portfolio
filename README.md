@@ -86,7 +86,7 @@ Disney Studios has produced more than 600 films since their debut film, Snow Whi
 
 ---
 
-# [Project: Investigating Patients not showing for check-ups ](https://github.com/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don't%20show%20Up..ipynb)
+# [Project: Investigating Patients not showing for check-ups ](https://nbviewer.jupyter.org/github/MMallah/Why-Patients-miss-appointments/blob/master/Why%20Patients%20don%27t%20show%20Up..ipynb)
 
 The data set in hand, has information about the attendance of patients after making an appointment for a check up, it has 110.527 medical appointments it's 14 associated variables. We will be analysing trends for patients who showed up Vs. Patients who didn't show for the appointment, and how they differ.
 
